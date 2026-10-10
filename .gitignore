@@ -1,0 +1,4 @@
+*.gguf
+CodeMind-raw/
+llama.cpp/
+.virtual_documents/
